@@ -2,6 +2,7 @@
 import Link from "next/link";
 
 export default function Error() {
+  console.log()
   return (
     <div className="flex items-center justify-center min-h-screen ">
       <div className="text-center bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
